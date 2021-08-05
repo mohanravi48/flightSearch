@@ -1,0 +1,29 @@
+[
+    {
+    "FlightName":"Indigo",
+    "Source":"singapore",
+    "Destination":"vancouver",
+    "cost": "10000"
+    },
+    {
+    "FlightName":"AirAsia",
+    "Source":"singapore",
+    "Destination":"vancouver",
+    "cost": "12000"
+    },
+    {
+    "FlightName":"Emirates",
+    "Source":"dubai",
+    "Destination":"newyork"
+    },
+    {
+    "FlightName":"EgyptAir",
+    "Source":"paris",
+    "Destination":"switzerland"
+    },
+    {
+    "FlightName":"British Airways",
+    "Source":"london",
+    "Destination":"scotland"
+    }
+    ]
